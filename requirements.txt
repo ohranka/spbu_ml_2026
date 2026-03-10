@@ -2,6 +2,7 @@ albumentations
 ipykernel
 jupyter
 matplotlib
+nltk
 numpy
 pandas
 scikit-learn
